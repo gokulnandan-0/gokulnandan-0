@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gokulnandan-0
-- 👀 I’m interested in machine Learning, Data Science etc
-- 🌱 I’m currently learning B.Tech
-- 💞️ I’m looking to collaborate on any project in FinTech, Product, Data or material Science Domains
+- I’m interested in machine Learning, Data Science etc
+- I’m looking to collaborate on any project in FinTech, Product, Data or material Science Domains
 - 📫 How to reach me [mail](mailto:2019mmb1315@iitrpr.ac.in)
 
 <!---
